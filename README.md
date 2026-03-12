@@ -55,11 +55,6 @@ graph TD
     G --> H[Notification System]
     H --> I[Admin Dashboard]
 ```
-
-![System Flow](docs/system_flow.png)
-
----
-
 # Key Features
 
 ### 🎙️ Multilingual Voice Interaction
