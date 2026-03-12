@@ -1,0 +1,15 @@
+[
+    {
+        "ticket_id": "397CB8E5",
+        "citizen_id": "CIT-001",
+        "complaint_text": "There is a broken traffic signal and an accident near Downtown",
+        "category": "Roads",
+        "priority": "High",
+        "language": "English",
+        "location": "Downtown Intersection",
+        "status": "Assigned",
+        "department": "Municipal Roads Department",
+        "created_at": "2026-03-12T17:47:52.165941",
+        "resolved_at": null
+    }
+]
